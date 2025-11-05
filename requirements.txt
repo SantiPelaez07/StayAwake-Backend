@@ -5,3 +5,4 @@ pydantic
 tensorflow
 pillow
 numpy
+python-multipart
